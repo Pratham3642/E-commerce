@@ -1,6 +1,7 @@
 # Forever E-commerce Website
 
-### You can visit the live demo of the website [here](https://forever-frontend-navy-nine.vercel.app/).
+### Live Demo
+Experience the **Forever E-commerce Website** firsthand by visiting the live demo: [**Forever E-commerce Live Demo**](https://forever-frontend-navy-nine.vercel.app/).
 
 This project is a **Full Stack E-commerce Website** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with **Stripe** integration for payments. The website allows users to browse products, add them to the cart, and complete purchases securely using Stripe.
 
